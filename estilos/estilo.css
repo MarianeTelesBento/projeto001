@@ -1,0 +1,21 @@
+body{
+    font-family: Arial;
+    font-size: 20pt;
+    position: relative;
+    top: 40px; left: 40px;
+}
+p{
+    color:darkgreen;
+}
+h1{
+    
+    color: crimson;
+}
+h3{
+    color: darkblue;
+}
+button{
+    background-color: darkslategray;
+    color: white;
+    font-size: 20pt;
+}
